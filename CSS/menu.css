@@ -1,0 +1,31 @@
+body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.Negro {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1 {
+    margin: auto;
+}
+.Azul {
+    background-color: rgba(0, 0, 0, 0.274);
+    color: white;
+    text-align: center;
+    display: flex;
+}
+header {
+    width: 1200px;
+    text-align: center;
+    margin: auto;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.select {
+    color: rgb(113, 191, 255);
+}

@@ -1,0 +1,38 @@
+.Verde {
+    background-color: rgb(126, 202, 149);
+    color: rgb(14, 41, 23);
+}
+h3 {
+    margin: 10px;
+    text-align: left;
+}
+.cole {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.Black {
+    background-color: rgba(0, 0, 0, 0.623);
+    color: white;
+    text-align: center;
+}
+h4 {
+    margin: 10px;
+    text-align: left;
+}
+.ins{
+    margin: 10px;
+    text-align: left;
+}
+input {
+    text-align: center;
+    width: 600px;
+    background-color: black;
+    color: white;
+}
+button {
+    width: 200px;
+    background-color: black;
+    color: white;
+}
